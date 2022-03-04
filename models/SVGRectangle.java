@@ -4,7 +4,7 @@ import java.awt.Color;
 
 public class SVGRectangle extends SVGObject {
 	
-	private int height;
+	private int height;1
 	private int width;
 	private int rx;
 	private int ry;
